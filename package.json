@@ -1,6 +1,6 @@
 {
   "name": "react-sizer-div",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A styleable div that measures its own size and passes the width and height to a render function.",
   "license": "MIT",
   "author": "https://github.com/ts-web/",
