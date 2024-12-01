@@ -16,7 +16,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ts-web/react-size-observer.git"
+    "url": "git+https://github.com/ts-web/react-sizer-div.git"
   },
   "homepage": "https://ts-web.github.io/react-sizer-div/",
   "main": "dist/index.cjs",
